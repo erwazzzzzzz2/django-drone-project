@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    list-style: none;
+   }
+
+   h1 {
+    padding: 10px;
+    width: 100%;
+   }
+
+h2 {
+    font-style: italic;
+    text-align: center;
+  }
